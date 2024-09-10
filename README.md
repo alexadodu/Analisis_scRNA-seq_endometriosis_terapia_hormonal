@@ -16,8 +16,8 @@ La endometriosis es una enfermedad crónica caracterizada por dolor pélvico, qu
 
 -----
 ## Datos empleados
-1. Fonseca, M. A. S., Haro, M., Wright, K. N., Lin, X., Abbasi, F., Sun, J., Hernandez, L., Orr, N. L., Hong, J., Choi-Kuaea, Y., Maluf, H. M., Balzer, B. L., Fishburn, A., Hickey, R., Cass, I., Goodridge, H. S., Truong, M., Wang, Y., Pisarska, M. D., … Lawrenson, K. (2023). Single-cell transcriptomic analysis of endometriosis. Nature Genetics, 55(2), 255. https://doi.org/10.1038/S41588-022-01254-1
-2. Tan, Y., Flynn, W. F., Sivajothi, S., Luo, D., Bozal, S. B., Davé, M., Luciano, A. A., Robson, P., Luciano, D. E., & Courtois, E. T. (2022). Single cell analysis of endometriosis reveals a coordinated transcriptional program driving immunotolerance and angiogenesis across eutopic and ectopic tissues. Nature Cell Biology, 24(8), 1306. https://doi.org/10.1038/S41556-022-00961-5
+1. Fonseca, M. A. S., Haro, M., Wright, K. N., Lin, X., Abbasi, F., Sun, J., Hernandez, L., Orr, N. L., Hong, J., Choi-Kuaea, Y., Maluf, H. M., Balzer, B. L., Fishburn, A., Hickey, R., Cass, I., Goodridge, H. S., Truong, M., Wang, Y., Pisarska, M. D., … Lawrenson, K. (2023). Single-cell transcriptomic analysis of endometriosis. *Nature Genetics*, 55(2), 255. https://doi.org/10.1038/S41588-022-01254-1
+2. Tan, Y., Flynn, W. F., Sivajothi, S., Luo, D., Bozal, S. B., Davé, M., Luciano, A. A., Robson, P., Luciano, D. E., & Courtois, E. T. (2022). Single cell analysis of endometriosis reveals a coordinated transcriptional program driving immunotolerance and angiogenesis across eutopic and ectopic tissues. *Nature Cell Biology*, 24(8), 1306. https://doi.org/10.1038/S41556-022-00961-5
 
 ----
 ----
@@ -40,5 +40,5 @@ Endometriosis is a chronic disease characterized by pelvic pain, severely impact
 
 -----
 ## Data from
-1. Fonseca, M. A. S., Haro, M., Wright, K. N., Lin, X., Abbasi, F., Sun, J., Hernandez, L., Orr, N. L., Hong, J., Choi-Kuaea, Y., Maluf, H. M., Balzer, B. L., Fishburn, A., Hickey, R., Cass, I., Goodridge, H. S., Truong, M., Wang, Y., Pisarska, M. D., … Lawrenson, K. (2023). Single-cell transcriptomic analysis of endometriosis. Nature Genetics, 55(2), 255. https://doi.org/10.1038/S41588-022-01254-1
-2. Tan, Y., Flynn, W. F., Sivajothi, S., Luo, D., Bozal, S. B., Davé, M., Luciano, A. A., Robson, P., Luciano, D. E., & Courtois, E. T. (2022). Single cell analysis of endometriosis reveals a coordinated transcriptional program driving immunotolerance and angiogenesis across eutopic and ectopic tissues. Nature Cell Biology, 24(8), 1306. https://doi.org/10.1038/S41556-022-00961-5
+1. Fonseca, M. A. S., Haro, M., Wright, K. N., Lin, X., Abbasi, F., Sun, J., Hernandez, L., Orr, N. L., Hong, J., Choi-Kuaea, Y., Maluf, H. M., Balzer, B. L., Fishburn, A., Hickey, R., Cass, I., Goodridge, H. S., Truong, M., Wang, Y., Pisarska, M. D., … Lawrenson, K. (2023). Single-cell transcriptomic analysis of endometriosis. *Nature Genetics*, 55(2), 255. https://doi.org/10.1038/S41588-022-01254-1
+2. Tan, Y., Flynn, W. F., Sivajothi, S., Luo, D., Bozal, S. B., Davé, M., Luciano, A. A., Robson, P., Luciano, D. E., & Courtois, E. T. (2022). Single cell analysis of endometriosis reveals a coordinated transcriptional program driving immunotolerance and angiogenesis across eutopic and ectopic tissues. *Nature Cell Biology*, 24(8), 1306. https://doi.org/10.1038/S41556-022-00961-5
