@@ -15,6 +15,9 @@ library(RColorBrewer)
 library("patchwork")
 
 ## ELBOW PLOTS
+A_joined_raw <- readRDS(file = "data/processed/A_seurat_list_raw.rds")
+B_joined_raw <- readRDS(file = "data/processed/B_seurat_list_raw.rds")
+
 elbowA <- ElbowPlot(A_joined_raw) + theme_article() +
     ggtitle("Dataset A") 
     # annotate("rect", xmin = 6, xmax = 12.5, ymin = 3 , ymax = 5.5, alpha = 0, color="pink") # añade recuadro
@@ -37,13 +40,17 @@ ggsave(filename = "results/elbow_plots.png",
 
 
 ## VISUALIZACIÓN UMAP
-A_combined_dataset <- readRDS(file = "data/processed/A_seurat_merged_clustered.rds")
+A_joined <- readRDS(file = "data/processed/A_seurat_merged_clustered.rds")
 Idents(object = A_joined) <- "RNA_snn_res.0.4"
 
-B_combined_dataset <- readRDS(file = "data/processed/B_seurat_merged_clustered.rds")
+B_joined <- readRDS(file = "data/processed/B_seurat_merged_clustered.rds")
 Idents(object = B_joined) <- "RNA_snn_res.0.4"
 
 # Ordena los clústeres para que aparezcan luego ordenados en la leyenda
+cluster_numeric <- as.numeric(as.character(Idents(A_joined)))
+A_joined$RNA_snn_res.0.4 <- factor(as.character(cluster_numeric),
+                                             levels = sort(unique(cluster_numeric)))
+
 cluster_numeric <- as.numeric(as.character(Idents(B_joined)))
 B_joined$RNA_snn_res.0.4 <- factor(as.character(cluster_numeric),
                                              levels = sort(unique(cluster_numeric)))
