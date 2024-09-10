@@ -15,7 +15,13 @@ La endometriosis es una enfermedad crónica caracterizada por dolor pélvico, qu
 - Todas las figuras empleadas se encuentran en `imagenes`.
 
 -----
+## Datos empleados
+1. Fonseca, M. A. S., Haro, M., Wright, K. N., Lin, X., Abbasi, F., Sun, J., Hernandez, L., Orr, N. L., Hong, J., Choi-Kuaea, Y., Maluf, H. M., Balzer, B. L., Fishburn, A., Hickey, R., Cass, I., Goodridge, H. S., Truong, M., Wang, Y., Pisarska, M. D., … Lawrenson, K. (2023). Single-cell transcriptomic analysis of endometriosis. Nature Genetics, 55(2), 255. https://doi.org/10.1038/S41588-022-01254-1
+2. Tan, Y., Flynn, W. F., Sivajothi, S., Luo, D., Bozal, S. B., Davé, M., Luciano, A. A., Robson, P., Luciano, D. E., & Courtois, E. T. (2022). Single cell analysis of endometriosis reveals a coordinated transcriptional program driving immunotolerance and angiogenesis across eutopic and ectopic tissues. Nature Cell Biology, 24(8), 1306. https://doi.org/10.1038/S41556-022-00961-5
+
 ----
+----
+
 # Analysis of Single-Cell RNA-seq Data to Evaluate the Efficacy of Hormonal Therapy in the Treatment of Endometriosis-Related Pain
 
 -----------------
@@ -31,3 +37,8 @@ Endometriosis is a chronic disease characterized by pelvic pain, severely impact
 - The `scripts` folder contains all the code used to process scRNA-seq data from endometriosis patients to visualize the impact of hormonal treatment.
 - The thesis document, which serves as a guide to understanding the obtained results, can be found in the `documento_tfm` folder.
 - All figures used are located in the `imagenes` folder.
+
+-----
+## Data from
+1. Fonseca, M. A. S., Haro, M., Wright, K. N., Lin, X., Abbasi, F., Sun, J., Hernandez, L., Orr, N. L., Hong, J., Choi-Kuaea, Y., Maluf, H. M., Balzer, B. L., Fishburn, A., Hickey, R., Cass, I., Goodridge, H. S., Truong, M., Wang, Y., Pisarska, M. D., … Lawrenson, K. (2023). Single-cell transcriptomic analysis of endometriosis. Nature Genetics, 55(2), 255. https://doi.org/10.1038/S41588-022-01254-1
+2. Tan, Y., Flynn, W. F., Sivajothi, S., Luo, D., Bozal, S. B., Davé, M., Luciano, A. A., Robson, P., Luciano, D. E., & Courtois, E. T. (2022). Single cell analysis of endometriosis reveals a coordinated transcriptional program driving immunotolerance and angiogenesis across eutopic and ectopic tissues. Nature Cell Biology, 24(8), 1306. https://doi.org/10.1038/S41556-022-00961-5
